@@ -1,0 +1,10 @@
+com\server\MyService.class
+com\builders\Builder.class
+com\anonymus\AmadeusCreateOrder.class
+com\anonymus\AmadeusFacade.class
+com\anonymus\AmadeusFlightSearch.class
+com\anonymus\AmadeusOrderManagement.class
+com\repository\UserRepository.class
+com\MainServer.class
+com\builders\FlightBuilder.class
+com\ServerException.class
